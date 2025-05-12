@@ -10,7 +10,7 @@ I’m a recent physics graduate with a passion for computational modeling and co
 ## 🔬 Final Year Project: Modeling the Wound Healing Process
 As part of my final year project, I developed a series of three progressively complex mathematical models to simulate the wound healing process in cell culture. The project lasted six months and was a blend of theoretical physics and computational biology. I used Python to:
 - Develop and refine the models
-- Simulate the biological process and analyze the results
+- Simulate the biological process and analyse the results
 - Visualize the data and interpret the outcomes
 
 This project honed my skills in Python programming, data visualization, and the application of mathematical models to real-world biological systems.
